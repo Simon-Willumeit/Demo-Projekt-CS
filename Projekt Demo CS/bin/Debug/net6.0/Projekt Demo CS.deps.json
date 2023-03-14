@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projekt Demo CS/1.0.0": {
+        "runtime": {
+          "Projekt Demo CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt Demo CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

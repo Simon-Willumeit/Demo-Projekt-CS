@@ -1,0 +1,15 @@
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\bin\Debug\net6.0\Projekt Demo CS.exe
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\bin\Debug\net6.0\Projekt Demo CS.deps.json
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\bin\Debug\net6.0\Projekt Demo CS.runtimeconfig.json
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\bin\Debug\net6.0\Projekt Demo CS.dll
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\bin\Debug\net6.0\Projekt Demo CS.pdb
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\Projekt Demo CS.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\Projekt Demo CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\Projekt Demo CS.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\Projekt Demo CS.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\Projekt Demo CS.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\Projekt Demo CS.dll
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\refint\Projekt Demo CS.dll
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\Projekt Demo CS.pdb
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\Projekt Demo CS.genruntimeconfig.cache
+C:\Users\Simon\source\repos\Projekt Demo CS\Projekt Demo CS\obj\Debug\net6.0\ref\Projekt Demo CS.dll
